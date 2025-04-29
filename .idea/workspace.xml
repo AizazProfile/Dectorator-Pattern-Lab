@@ -4,27 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="a49a61f0-202a-4e5f-84e4-b1a848078628" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lab task.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Labtask/FileDecorator/CompressionDecorator.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Labtask/FileDecorator/DataSource.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Labtask/FileDecorator/DataSourceDecorator.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Labtask/FileDecorator/Demo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Labtask/FileDecorator/EncryptionDecorator.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Labtask/FileDecorator/FileDataSource.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Labtask/FileDecorator/UTF8Decorator.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Labtask/Shape/Circle.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Labtask/Shape/DecoratorPatternDemo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Labtask/Shape/Rectangle.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Labtask/Shape/RedShapeDecorator.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Labtask/Shape/Shape.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Labtask/Shape/ShapeDecorator.java" afterDir="false" />
-    </list>
+    <list default="true" id="a49a61f0-202a-4e5f-84e4-b1a848078628" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
